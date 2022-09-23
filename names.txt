@@ -1,0 +1,72 @@
+{name: en-au-x-aub-network, locale: en-AU} 5
+{name: en-in-x-ene-network, locale: en-IN} 5
+{name: en-au-x-aud-network, locale: en-AU} 6
+{name: bn-in-x-bnm-network, locale: bn-IN} 4
+{name: en-us-x-tpd-network, locale: en-US} 5
+{name: en-in-x-end-local, locale: en-IN} 4
+{name: en-au-x-aub-local, locale: en-AU} 5
+{name: en-gb-x-gbb-local, locale: en-GB} 5
+{name: en-in-x-cxx-network, locale: en-IN} 5
+{name: en-us-x-iom-network, locale: en-US} 5
+{name: hi-in-x-hid-local, locale: hi-IN} 5
+{name: en-gb-x-gbd-local, locale: en-GB}
+{name: hi-in-x-hic-network, locale: hi-IN}
+{name: en-gb-x-gbg-local, locale: en-GB}
+{name: en-gb-x-rjs-local, locale: en-GB}
+{name: en-us-x-iom-local, locale: en-US}
+{name: en-au-x-auc-network, locale: en-AU}
+{name: kn-in-x-knf-local, locale: kn-IN}
+{name: en-in-x-end-network, locale: en-IN}
+{name: pa-in-x-pag-network, locale: pa-IN}
+{name: en-ng-x-tfn-network, locale: en-NG}
+{name: es-us-x-esd-local, locale: es-US}
+{name: kn-in-x-knm-network, locale: kn-IN}
+{name: en-US-language, locale: en-US}
+{name: hi-in-x-hia-network, locale: hi-IN}
+{name: en-gb-x-gba-local, locale: en-GB}
+{name: en-in-x-cxx-local, locale: en-IN}
+{name: en-in-x-ene-local, locale: en-IN}
+{name: pa-in-x-pae-local, locale: pa-IN}
+{name: en-au-x-aua-network, locale: en-AU}
+{name: en-ng-x-tfn-local, locale: en-NG}
+{name: hi-IN-language, locale: hi-IN}
+{name: bn-in-x-bnf-local, locale: bn-IN}
+{name: en-us-x-tpd-local, locale: en-US}
+{name: kn-IN-language, locale: kn-IN}
+{name: en-au-x-aua-local, locale: en-AU}
+{name: en-gb-x-rjs-network, locale: en-GB}
+{name: ml-in-x-mlm-network, locale: ml-IN}
+{name: pa-in-x-pac-network, locale: pa-IN}
+{name: kn-in-x-knf-network, locale: kn-IN}
+{name: en-au-x-afh-local, locale: en-AU}
+{name: en-au-x-aud-local, locale: en-AU}
+{name: en-gb-x-gbb-network, locale: en-GB}
+{name: mr-in-x-mrf-network, locale: mr-IN}
+{name: hi-in-x-hie-network, locale: hi-IN}
+{name: en-us-x-iog-network, locale: en-US}
+{name: te-in-x-tef-network, locale: te-IN}
+{name: en-gb-x-fis-local, locale: en-GB}
+{name: bn-in-x-bin-local, locale: bn-IN}
+{name: en-gb-x-gbg-network, locale: en-GB}
+{name: es-us-x-esd-network, locale: es-US}
+{name: ta-IN-language, locale: ta-IN}
+{name: ml-in-x-mlf-network, locale: ml-IN}
+{name: en-us-x-tpf-network, locale: en-US}
+{name: en-gb-x-gbd-network, locale: en-GB}
+{name: mr-in-x-mrf-local, locale: mr-IN}
+{name: en-in-x-ena-local, locale: en-IN}
+{name: hi-in-x-hic-local, locale: hi-IN}
+{name: hi-in-x-cfn-network, locale: hi-IN}
+{name: bn-in-x-bnm-local, locale: bn-IN}
+{name: pa-in-x-pad-network, locale: pa-IN}
+{name: bn-in-x-bnx-local, locale: bn-IN}
+{name: pa-in-x-pae-network, locale: pa-IN}
+{name: gu-in-x-gum-local, locale: gu-IN}
+{name: es-us-x-esc-network, locale: es-US}
+{name: en-us-x-iog-local, locale: en-US}
+{name: pa-in-x-pad-local, locale: pa-IN}
+{name: en-us-x-tpc-local, locale: en-US}
+{name: en-IN-language, locale: en-IN}
+{name: es-US-language, locale: es-US}
+{name: ta-in-x-taf-network, locale: ta-IN}
+{name: en-us-x-iol-local, locale: en-US}
